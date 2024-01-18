@@ -1,2 +1,2 @@
-# Insta_story_feature
-Using html, css , js making Instagram Story feature just click on story , story will shown upto 3 sec
+# 05_Multiple_Image_hovering_animation
+Using html, css , js making image hovering animation
